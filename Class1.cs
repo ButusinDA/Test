@@ -11,7 +11,7 @@ namespace Project1
         static void Main ()
         {
             decimal d = 213434.234m;
-            Console.WriteLine("Money = {0:c}", d);
+            Console.WriteLine("Money love kisses = {0:c}", d);
             Console.ReadKey();
         }
     }
